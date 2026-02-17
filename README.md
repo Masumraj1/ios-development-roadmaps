@@ -1,56 +1,10 @@
-# 📱 iOS Development Roadmap (Swift & SwiftUI)
-
-A comprehensive, step-by-step roadmap to mastering **iOS Development** using **Swift** and **SwiftUI**. This repository serves as a guide for developers transitioning from other platforms (like Flutter) or starting fresh in the Apple ecosystem.
-
----
-
-## 🚀 Getting Started with Xcode
-
-To begin your journey, follow these initial steps to set up your environment:
-
-### 🛠 Installation & Setup
-1. **Download Xcode**: Install the latest version of Xcode from the **Mac App Store**.
-2. **Create New Project**:
-   - Open Xcode > **Create a New Xcode Project**.
-   - **Platform**: Select `iOS`.
-   - **Template**: Select `App`.
-3. **Project Details**:
-   - **Product Name**: `ios-development-roadmap`
-   - **Interface**: `SwiftUI` (The modern standard).
-   - **Language**: `Swift`.
-   - **Organization Identifier**: `com.github.masumraj1`
-   - **Storage**: `None` (for basic setup).
-
----
-
-## 🔗 GitHub Integration in Xcode
-
-You don't need to create a repository manually on GitHub website. Xcode can handle it for you:
-
-### 1️⃣ Connect GitHub Account
-- Go to **Xcode Menu** > **Settings** (or `Cmd + ,`).
-- Click the **Accounts** tab.
-- Click the **+ (Plus)** icon at the bottom left and select **GitHub**.
-- Log in using your GitHub username and **Personal Access Token (PAT)**.
-
-### 2️⃣ Create Remote & Push
-- Open the **Source Control Navigator** (the 2nd icon in the left panel).
-- **Right-click** on your project name.
-- Select **New "ios-development-roadmap" Remote...**
-- Choose your account, visibility (Public/Private), and click **Create**.
-- Xcode will automatically create the repo on GitHub and push your code.
-
----
-
-
----
-
-## 👨‍💻 Author
-**Md. Masum Rana**
-*Flutter Developer (2.5+ Years Experience)*
-*Exploring the world of Native iOS Development*
-
----
-
-## 📄 License
-This project is licensed under the MIT License.
+১. Xcode ইনস্টলেশন: Xcode সফটওয়্যারটি অফিশিয়ালি কোথা থেকে এবং কীভাবে ইনস্টল করতে হয়?
+২. নতুন প্রজেক্ট সেটআপ: Xcode-এ একটি নতুন প্রজেক্ট খোলার সময় 'Platform' এবং 'Template' হিসেবে কী কী সিলেক্ট করতে হয়?
+৩. প্রজেক্ট ডিটেইলস: একটি নতুন অ্যাপ তৈরির সময় 'Interface' এবং 'Language' অপশনে বর্তমানে স্ট্যান্ডার্ড হিসেবে কী দেওয়া উচিত?
+৪. Organization Identifier: এই ঘরটিতে সাধারণত কী ধরণের ফরম্যাট (যেমন: com.github.username) ব্যবহার করা হয় এবং এর গুরুত্ব কী?
+৫. GitHub কানেক্টিভিটি: Xcode-এর কোন সেকশনে (Settings) গিয়ে GitHub অ্যাকাউন্ট কানেক্ট করতে হয় এবং পাসওয়ার্ডের বদলে সেখানে কী ব্যবহার করতে হয়?
+৬. অটোমেটিক রেপোজিটরি: GitHub ওয়েবসাইটে না গিয়ে সরাসরি Xcode থেকেই কীভাবে একটি নতুন রিমোট রিপোজিটরি তৈরি করা যায়?
+৭. সোর্স কন্ট্রোল নেভিগেটর: প্রজেক্টের রিমোট সেটআপ করার জন্য বাম পাশের প্যানেলের কোন আইকনটি (Source Control Navigator) ব্যবহার করতে হয়?
+৮. কোড পুশ (Push): কোড পরিবর্তন করার পর 'Commit' এবং 'Push' করার জন্য Xcode-এর শর্টকাট কী কী?
+৯. README ফাইল: একটি গিটহাব রিপোজিটরিকে প্রফেশনাল দেখানোর জন্য কোন ফাইলটি সবচেয়ে গুরুত্বপূর্ণ এবং সেটি কীভাবে সাজাতে হয়?
+১০. টার্মিনাল বনাম Xcode: Xcode-এর ইন্টারফেস ব্যবহার না করে চাইলে কি টার্মিনাল কমান্ড দিয়েও পুশ করা সম্ভব?
