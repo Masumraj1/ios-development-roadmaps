@@ -42,9 +42,6 @@ You don't need to create a repository manually on GitHub website. Xcode can hand
 
 ---
 
-
----
-
 ## 👨‍💻 Author
 **Md. Masum Rana**
 *Flutter Developer (2.5+ Years Experience)*
